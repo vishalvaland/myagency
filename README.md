@@ -1,2 +1,0 @@
-# myagency
-Wordpress theme
